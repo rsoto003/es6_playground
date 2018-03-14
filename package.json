@@ -18,5 +18,7 @@
     "webpack": "^2.4.1",
     "webpack-dev-middleware": "^1.10.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
